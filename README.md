@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/four-card-feature-section-using-css-grid-4eZ4TIvzdB](https://www.frontendmentor.io/solutions/four-card-feature-section-using-css-grid-4eZ4TIvzdB)
-- Live Site URL: [https://nt-squared.github.io/four-card-feature-section/](https://nt-squared.github.io/four-card-feature-section/)
+- Solution URL: [https://www.frontendmentor.io/solutions/single-price-grid-component-using-css-grid-nHwUWc8SPB](https://www.frontendmentor.io/solutions/single-price-grid-component-using-css-grid-nHwUWc8SPB)
+- Live Site URL: [https://nt-squared.github.io/single-price-grid-component/](https://nt-squared.github.io/single-price-grid-component/)
 
 ## My process
 
